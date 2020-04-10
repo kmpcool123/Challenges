@@ -1,0 +1,9 @@
+C:\Eleven-Fifty\Gold Badge\Challenges\Challenges\01_CafeUI\bin\Debug\01_CafeUI.exe.config
+C:\Eleven-Fifty\Gold Badge\Challenges\Challenges\01_CafeUI\bin\Debug\01_CafeUI.exe
+C:\Eleven-Fifty\Gold Badge\Challenges\Challenges\01_CafeUI\bin\Debug\01_CafeUI.pdb
+C:\Eleven-Fifty\Gold Badge\Challenges\Challenges\01_CafeUI\bin\Debug\01_Cafe.dll
+C:\Eleven-Fifty\Gold Badge\Challenges\Challenges\01_CafeUI\bin\Debug\01_Cafe.pdb
+C:\Eleven-Fifty\Gold Badge\Challenges\Challenges\01_CafeUI\obj\Debug\01_CafeUI.csprojAssemblyReference.cache
+C:\Eleven-Fifty\Gold Badge\Challenges\Challenges\01_CafeUI\obj\Debug\01_CafeUI.csproj.CopyComplete
+C:\Eleven-Fifty\Gold Badge\Challenges\Challenges\01_CafeUI\obj\Debug\01_CafeUI.exe
+C:\Eleven-Fifty\Gold Badge\Challenges\Challenges\01_CafeUI\obj\Debug\01_CafeUI.pdb
