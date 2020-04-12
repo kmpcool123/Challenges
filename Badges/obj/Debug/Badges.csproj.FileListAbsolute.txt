@@ -1,0 +1,5 @@
+C:\Eleven-Fifty\Gold Badge\Challenges\Challenges\Badges\bin\Debug\Badges.dll
+C:\Eleven-Fifty\Gold Badge\Challenges\Challenges\Badges\bin\Debug\Badges.pdb
+C:\Eleven-Fifty\Gold Badge\Challenges\Challenges\Badges\obj\Debug\Badges.csprojAssemblyReference.cache
+C:\Eleven-Fifty\Gold Badge\Challenges\Challenges\Badges\obj\Debug\Badges.dll
+C:\Eleven-Fifty\Gold Badge\Challenges\Challenges\Badges\obj\Debug\Badges.pdb

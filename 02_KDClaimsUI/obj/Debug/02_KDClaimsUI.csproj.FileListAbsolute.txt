@@ -1,0 +1,5 @@
+C:\Eleven-Fifty\Gold Badge\Challenges\Challenges\02_KDClaimsUI\bin\Debug\02_KDClaimsUI.exe.config
+C:\Eleven-Fifty\Gold Badge\Challenges\Challenges\02_KDClaimsUI\bin\Debug\02_KDClaimsUI.exe
+C:\Eleven-Fifty\Gold Badge\Challenges\Challenges\02_KDClaimsUI\bin\Debug\02_KDClaimsUI.pdb
+C:\Eleven-Fifty\Gold Badge\Challenges\Challenges\02_KDClaimsUI\obj\Debug\02_KDClaimsUI.exe
+C:\Eleven-Fifty\Gold Badge\Challenges\Challenges\02_KDClaimsUI\obj\Debug\02_KDClaimsUI.pdb
